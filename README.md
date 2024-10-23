@@ -29,3 +29,8 @@ Este é um projeto simples de sistema bancário desenvolvido em Python como part
 4. Execute o script:
    ```bash
    python sistema_bancario.py
+
+---
+
+## **Estrutura do Código**
+- O código utiliza um loop while para exibir um menu interativo até o usuário escolher opção "Sair".
