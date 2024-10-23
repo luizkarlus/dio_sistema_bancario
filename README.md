@@ -34,3 +34,9 @@ Este é um projeto simples de sistema bancário desenvolvido em Python como part
 
 ## **Estrutura do Código**
 - O código utiliza um loop while para exibir um menu interativo até o usuário escolher opção "Sair".
+- Cada operação (saque, depósito e extrato) possui suas próprias verificações e mensagens ao usuário.
+
+---
+
+## **Autor**
+Luiz França
