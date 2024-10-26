@@ -26,10 +26,13 @@ Este é um projeto simples de sistema bancário desenvolvido em Python como part
 3. Navegue até o diretório do projeto:
    ```bash
    cd sistema_bancario
-4. Execute o script:
+4. Instale a biblioteca tqdm através do comando.
+   ```bash
+   pip install -r requirement
+5. Execute o script:
    ```bash
    python sistema_bancario.py
-
+   
 ---
 
 ## **Estrutura do Código**
@@ -39,4 +42,4 @@ Este é um projeto simples de sistema bancário desenvolvido em Python como part
 ---
 
 ## **Autor**
-Luiz França
+Luiz Carlos França
